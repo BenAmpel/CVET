@@ -1,8 +1,9 @@
 # CVET - CVE To MITRE ATT&CK Tactics
-A repository of CVEs linked to MITRE ATT&amp;CK tactics
+A spreadsheet of CVEs linked to MITRE ATT&amp;CK tactics
 
 If you use the results of this research, please cite the following paper: 
 
+```bibtex
 @inproceedings{ampel-etal-2021-cvet,
     title = "Linking Common Vulnerabilities and Exposures to the MITRE ATT&CK Framework: A Self-Distillation Approach",
     author = "Benjamin Ampel, Sagar Samtani, Steven Ullman, and Hsinchun Chen",
@@ -14,3 +15,4 @@ If you use the results of this research, please cite the following paper:
     url = "https://arxiv.org/ftp/arxiv/papers/2108/2108.01696.pdf",
     pages = "1-5"
 }
+```
