@@ -1,4 +1,4 @@
-# CVET - CVE To MITRE ATT&CK Tactics
+# CVET - CVE to MITRE ATT&CK Tactics
 A spreadsheet of CVEs linked to MITRE ATT&amp;CK tactics
 
 If you use the results of this research, please cite the following paper: 
